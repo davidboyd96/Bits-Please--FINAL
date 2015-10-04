@@ -1,0 +1,30 @@
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\kavan_000\Desktop\fff\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Debug\BodyBasics-WPF.exe
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Debug\MainWindow.baml
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Debug\MainWindow.g.cs
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Debug\App.g.cs
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache

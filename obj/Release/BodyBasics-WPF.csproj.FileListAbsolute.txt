@@ -1,0 +1,63 @@
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\bin\AnyCPU\Release\BodyBasics-WPF.exe.config
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Release\MainWindow.baml
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Release\MainWindow.g.cs
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Release\App.g.cs
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Release\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Release\BodyBasics-WPF.g.resources
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Release\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Release\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\bin\AnyCPU\Release\BodyBasics-WPF.exe
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\bin\AnyCPU\Release\BodyBasics-WPF.pdb
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\bin\AnyCPU\Release\Microsoft.Kinect.dll
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\bin\AnyCPU\Release\Microsoft.Kinect.xml
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Release\BodyBasics-WPF.exe
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Release\BodyBasics-WPF.pdb
+C:\Users\kavan_000\Documents\Visual Studio 2013\Projects\Bits-Please\obj\Release\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\bruno_000\Documents\Visual Studio 2013\Projects\WindowsGame1\Bits-Please\bin\AnyCPU\Release\BodyBasics-WPF.exe.config
+C:\Users\bruno_000\Documents\Visual Studio 2013\Projects\WindowsGame1\Bits-Please\obj\Release\BodyBasics-WPF.exe
+C:\Users\bruno_000\Documents\Visual Studio 2013\Projects\WindowsGame1\Bits-Please\obj\Release\BodyBasics-WPF.pdb
+C:\Users\David\Documents\GitHub\Bits-Please\bin\AnyCPU\Release\BodyBasics-WPF.exe.config
+C:\Users\David\Documents\GitHub\Bits-Please\obj\Release\BodyBasics-WPF.exe
+C:\Users\David\Documents\GitHub\Bits-Please\obj\Release\BodyBasics-WPF.pdb
+C:\Users\David\Documents\GitHub\Bits-Please\bin\AnyCPU\Release\BodyBasics-WPF.exe
+C:\Users\David\Documents\GitHub\Bits-Please\bin\AnyCPU\Release\BodyBasics-WPF.pdb
+C:\Users\David\Documents\GitHub\Bits-Please\bin\AnyCPU\Release\Microsoft.Kinect.dll
+C:\Users\David\Documents\GitHub\Bits-Please\bin\AnyCPU\Release\Microsoft.Kinect.xml
+C:\Users\David\Documents\GitHub\Bits-Please\obj\Release\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\Bits-Please\obj\Release\MainWindow.baml
+C:\Users\David\Documents\GitHub\Bits-Please\obj\Release\MainWindow.g.cs
+C:\Users\David\Documents\GitHub\Bits-Please\obj\Release\App.g.cs
+C:\Users\David\Documents\GitHub\Bits-Please\obj\Release\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\David\Documents\GitHub\Bits-Please\obj\Release\BodyBasics-WPF.g.resources
+C:\Users\David\Documents\GitHub\Bits-Please\obj\Release\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\David\Documents\GitHub\Bits-Please\obj\Release\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\bin\AnyCPU\Release\BodyBasics-WPF.exe.config
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\obj\Release\BodyBasics-WPF.exe
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\obj\Release\BodyBasics-WPF.pdb
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\bin\AnyCPU\Release\BodyBasics-WPF.exe
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\bin\AnyCPU\Release\BodyBasics-WPF.pdb
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\bin\AnyCPU\Release\Microsoft.Kinect.dll
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\bin\AnyCPU\Release\Microsoft.Kinect.xml
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\obj\Release\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\obj\Release\MainWindow.baml
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\obj\Release\MainWindow.g.cs
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\obj\Release\App.g.cs
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\obj\Release\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\obj\Release\BodyBasics-WPF.g.resources
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\obj\Release\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\David\Documents\GitHub\Bits-Please - Copy4\obj\Release\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Bits-Please -FINAL\bin\AnyCPU\Release\BodyBasics-WPF.exe.config
+C:\Users\David\Desktop\Bits-Please -FINAL\obj\Release\BodyBasics-WPF.exe
+C:\Users\David\Desktop\Bits-Please -FINAL\obj\Release\BodyBasics-WPF.pdb
+C:\Users\David\Desktop\Bits-Please -FINAL\bin\AnyCPU\Release\BodyBasics-WPF.exe
+C:\Users\David\Desktop\Bits-Please -FINAL\bin\AnyCPU\Release\BodyBasics-WPF.pdb
+C:\Users\David\Desktop\Bits-Please -FINAL\bin\AnyCPU\Release\Microsoft.Kinect.dll
+C:\Users\David\Desktop\Bits-Please -FINAL\bin\AnyCPU\Release\Microsoft.Kinect.xml
+C:\Users\David\Desktop\Bits-Please -FINAL\obj\Release\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Bits-Please -FINAL\obj\Release\MainWindow.baml
+C:\Users\David\Desktop\Bits-Please -FINAL\obj\Release\MainWindow.g.cs
+C:\Users\David\Desktop\Bits-Please -FINAL\obj\Release\App.g.cs
+C:\Users\David\Desktop\Bits-Please -FINAL\obj\Release\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\David\Desktop\Bits-Please -FINAL\obj\Release\BodyBasics-WPF.g.resources
+C:\Users\David\Desktop\Bits-Please -FINAL\obj\Release\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\David\Desktop\Bits-Please -FINAL\obj\Release\BodyBasics-WPF.csproj.GenerateResource.Cache
